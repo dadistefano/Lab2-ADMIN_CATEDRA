@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="DTO\clsMateriaDTO.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="604" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="15" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="757" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="DTO\clsMateriaDTO.cpp" open="1" top="1" tabpos="11" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="247" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="View\clsMateriaView.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1709" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="BL\clsMateriaBL.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="189" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="View\clsMateriaView.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="313" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="View\clsMainView.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="638" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="View\clsMainView.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="16" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="114" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="BL\clsMateriaBL.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="555" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DAO\clsMateriaDAO.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="16" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1715" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="DAO\clsMateriaDAO.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="213" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

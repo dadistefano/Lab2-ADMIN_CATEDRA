@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1570823681 source:c:\users\fecalabu\desktop\tp2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1570822109 c:\users\fecalabu\desktop\tp2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+
+1570821520 c:\users\fecalabu\desktop\tp2\dto\clsmateriadto.h
+	<cstring>
+
+1570821609 source:c:\users\fecalabu\desktop\tp2\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1571953616 source:c:\users\fecalabu\desktop\tp2\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1571953108 c:\users\fecalabu\desktop\tp2\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1571954111 source:c:\users\fecalabu\desktop\tp2\main.cpp
+	<iostream>
+	"View/clsMainView.h"
+
+1571954370 c:\users\fecalabu\desktop\tp2\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+
+1571954957 c:\users\fecalabu\desktop\tp2\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1571954411 source:c:\users\fecalabu\desktop\tp2\view\clsmainview.cpp
+	"clsMainView.h"
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TP2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TP2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="DTO" />
+					<Add directory="DAO" />
+					<Add directory="BL" />
+					<Add directory="View" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TP2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="DTO" />
+					<Add directory="DAO" />
+					<Add directory="BL" />
+					<Add directory="View" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BL/clsMateriaBL.cpp" />
+		<Unit filename="BL/clsMateriaBL.h" />
+		<Unit filename="DAO/clsMateriaDAO.cpp" />
+		<Unit filename="DAO/clsMateriaDAO.h" />
+		<Unit filename="DTO/clsMateriaDTO.cpp" />
+		<Unit filename="DTO/clsMateriaDTO.h" />
+		<Unit filename="View/clsMainView.cpp" />
+		<Unit filename="View/clsMainView.h" />
+		<Unit filename="View/clsMateriaView.cpp" />
+		<Unit filename="View/clsMateriaView.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
