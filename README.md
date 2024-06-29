@@ -1,2 +1,3 @@
-# Laboratorio2
-CodigoC++
+# Laboratorio2 - UTN
+Administracion de catedras
+Codigo: C++
